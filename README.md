@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/03e7ce66-1017-424b-b249-d835f2b67b89" width="200">
-
+    <img width="1199" height="355" alt="image" src="https://github.com/user-attachments/assets/52ebb366-2674-4ba3-ad45-592f6a4c44dd" />
+    
 ```text
  . ݁₊ I wish time would linger. . . but it never does . ༄˖°
 ```
@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  ❄️ 
+  🐈‍⬛ 
   ⊹
   <a href="https://pronouns.cc/@kaeple">Pronouns page</a> ·
   <a href="https://kaemple.atabook.org/">Atabook</a> ·
   <a href="https://kuniscr.straw.page">Strawpage</a>
   ⊹ 
-  🎐
+  🌙
 </p>
