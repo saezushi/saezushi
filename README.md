@@ -1,5 +1,6 @@
 <div align="center">
-    <img width="1199" height="355" alt="image" src="https://github.com/user-attachments/assets/4f910227-ab10-493e-8a3f-cfb7ac9b8aeb" />
+    <img width="1199" height="355" alt="image" src="https://github.com/user-attachments/assets/c83bd59f-e7a7-42cb-ba02-89d97d6f5d1c" />
+
  
 ```text
  . ݁₊ I wish time would linger. . . but it never does . ༄˖°
