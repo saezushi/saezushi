@@ -3,7 +3,7 @@
 
  
 ```text
- . ݁₊ Baby can't you see? I need you 'cause you're everything that I'm not . . . ༄˖°
+ . ݁₊ Baby can't you see? I need you 'cause you're everything that I'm not . ༄˖°
 ```
 </div>
 
