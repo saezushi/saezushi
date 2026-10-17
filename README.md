@@ -3,7 +3,7 @@
 
  
 ```text
- . ݁₊ I wish time would linger. . . but it never does . ༄˖°
+ . ݁₊ Baby can't you see? I need you 'cause you're everything that I'm not . . . ༄˖°
 ```
 </div>
 
