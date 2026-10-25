@@ -15,7 +15,7 @@
 <p align="center">
   ✨
   ⊹
-  <a href="https://pronouns.cc/@kaeple">Pronouns page</a> ·
+  <a href="https://pronouns.cc/@kaeple">Prnspage</a> ·
   <a href="https://kaemple.atabook.org/">Atabook</a> ·
   <a href="https://kuniscr.straw.page">Strawpage</a>
   ⊹ 
