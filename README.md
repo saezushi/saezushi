@@ -4,7 +4,7 @@
 
  
 ```text
- . ݁₊ If I lose everything in the fire . I'm sending my love to you . . ༄˖°
+ . ݁₊ I'm wrapped around your finger, and I can't stop . . you know I got a soft spot for you . ༄˖°
 ```
 </div>
 
