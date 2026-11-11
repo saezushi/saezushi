@@ -15,9 +15,9 @@
 <p align="center">
   ✨
   ⊹
-  <a href="https://pronouns.cc/@kaeple">Prnspage</a> ·
+  <a href="https://pronouns.cc/@kaeple">Prnspg</a> ·
   <a href="https://kaemple.atabook.org/">Ata</a> ·
-  <a href="https://kuniksae.straw.page/">Strawpage(Updated11/12)</a>
+  <a href="https://kuniksae.straw.page/">Strawpg(Updated11/12)</a>
   ⊹ 
   ☁️
 
