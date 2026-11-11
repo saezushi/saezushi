@@ -1,10 +1,11 @@
-<div align="center">
-    <img width="1199" height="355" alt="image" src="https://github.com/user-attachments/assets/7e2b97eb-9a6a-43ad-845f-d641d3303243" />
+<img width="600" height="371" alt="image" src="https://github.com/user-attachments/assets/3aa1f34a-17c5-4b50-8df5-57c2533f0f61" /><div align="center">
+    <img width="1199" height="355" alt="image" src="https://github.com/user-attachments/assets/077e2a47-78de-4120-9896-50b298a25552" />
+
 
 
  
 ```text
- . ݁₊ I'm wrapped around your finger, and I can't stop . . you know I got a soft spot for you . ༄˖°
+ . ݁₊ " Why you let those words come out of your mouth? If you don't mean it . " ༄˖°
 ```
 </div>
 
@@ -19,5 +20,6 @@
   <a href="https://kaemple.atabook.org/">Atabook</a> ·
   <a href="https://kuniscr.straw.page">Strawpage</a>
   ⊹ 
-  🌀
+  ☁️
+
 </p>
