@@ -1,6 +1,5 @@
 <div align="center">
-    <img width="1199" height="355" alt="image" src="https://github.com/user-attachments/assets/077e2a47-78de-4120-9896-50b298a25552" />
-
+    <img width="1199" height="355" alt="image" src="https://github.com/user-attachments/assets/21a6978d-774e-4f8d-aa34-238f36253e63" />
 
  
 ```text
@@ -13,7 +12,7 @@
 </p>
 
 <p align="center">
-  ✨
+  💤
   ⊹
   <a href="https://pronouns.cc/@kaeple">Prns</a> ·
   <a href="https://kaemple.atabook.org/">Ata</a> ·
