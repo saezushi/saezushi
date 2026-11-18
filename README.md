@@ -18,7 +18,7 @@
   ⊹
   <a href="https://pronouns.cc/@kaeple">Prns</a> ·
   <a href="https://kaemple.atabook.org/">Ata</a> ·
-  <a href="https://kuniksae.straw.page/">Straw(Updated)</a>
+  <a href="https://kuniksae.straw.page/">Straw</a>
   ⊹ 
   ☁️
 
